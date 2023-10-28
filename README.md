@@ -32,6 +32,6 @@ Made with
 
 ## Structure
 
-/src App.tsx -> main page made with Vite
-/entities -> classes used on the project
-/entities -> components used on the project
+* /src App.tsx -> main page made with Vite
+* /entities -> classes used on the project
+* /components -> components used on the project
